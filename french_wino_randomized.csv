@@ -1,0 +1,100 @@
+id,sentence,option1,option2,answer
+1,"La coupe n'entre pas dans la valise marron, car _ est trop grande.",la valise,la coupe,2
+2,"Paul a essayé de joindre Georges sur son téléphone, mais _ n'a pas réussi.",Paul,Georges,1
+3,"L'avocat a posé une question au témoin, mais _ a refusé de la répéter.",l'avocat,le témoin,1
+4,Nicolas n'a pas pu soulever son fils car _ était trop faible.,Nicolas,son fils,1
+5,"Les lycéens harcelaient les collégiens, donc on _ a punis.",les collégiens,les lycéens,2
+6,J'ai versé l'eau de la carafe dans la tasse jusqu'à ce que _ soit vide.,la tasse,la carafe,2
+7,Bernard a payé les études de Charles. _ est très généreux.,Charles,Bernard,2
+8,"Bernard a payé les études de Charles, mais celui-ci ne l'a pas remercié. _ est vraiment blessé.",Bernard,Charles,1
+9,"Si l'escroc avait réussi à tromper Samuel, _ aurait pu gagner beaucoup d'argent.",l'escroc,Samuel,1
+10,Le poisson a mangé le ver. _ était affamé.,le poisson,le ver,1
+11,"Pendant la tempête, l'arbre est tombé et s'est écrasé sur le toit de ma maison. Maintenant je dois déplacer _.",le toit,l'arbre,2
+12,Joël a vendu sa maison et en a acheté une nouvelle à quelques kilomètres. Il va déménager ce jeudi de _.,son ancienne maison,sa nouvelle maison,1
+13,Les gens qui commencent à lire les livres de Paul ne peuvent plus les lâcher. _ sont enthousiastes car Paul écrit vraiment bien.,les gens,les livres de Paul,1
+14,"Claire a frappé à la porte de Sylvie, mais personne n'a répondu. _ était déçue.",Sylvie,Claire,2
+15,"Claire a frappé à la porte de Sylvie, et Sylvie a ouvert. _ l'a invitée à venir dehors.",Sylvie,Claire,2
+16,"Simon a pris des cours de français avec Adam, car _ voulait parler français couramment.",Adam,Simon,2
+17,"Le chemin pour aller au lac était bloqué, donc on n'a pas pu emprunter _.",le lac,le chemin,2
+18,"On est allé au lac, car un requin a été aperçu dans la mer, c'était plus sûr de nager _.",dans le lac,dans la mer,1
+19,"Fred et Alice ont des manteaux très chauds, mais _ ne sont pas préparés pour l'hiver en Alaska.",les manteaux,Fred et Alice,2
+20,Dupont a visité la tombe de Dubois en 1765. A cette date _ était sur la route depuis cinq ans.,Dubois,Dupont,2
+21,"Henry a été très influencé par Arnault, même si _ a vécu deux siècles plus tard.",Henry,Arnault,1
+22,"Je ne peux pas couper la planche avec cette scie, _ est trop épaisse.",la scie,la planche,2
+23,"La nuit, les renards entrent dans la cour et attaquent les poules. Je devrais tuer _.",les poules,les renards,2
+24,Fred regardait la télé quand Georges est parti faire les courses. Une heure après _ s'est levé.,Georges,Fred,2
+25,Fred est le seul homme encore vivant à se rappeler de mon arrière grand-père.  _ est un homme remarquable.,mon arrière grand-père,Fred,2
+26,"Fred est le seul homme encore vivant à se rappeler de mon père quand il était un enfant. Quand Fred a vu mon père pour la première fois, _ avait 18 ans.",Fred,mon père,1
+27,"En juillet, le Kamchatka a déclaré la guerre à Yakoutsk. Comme l'armée de Yakoutsk était bien mieux équipée que celle du Kamchatka, _ ont gagné en quelques semaines.",le Kamchatka,Yakoutsk,2
+28,"Il y a trop de cerfs dans le parc, et les gardes forestiers ont introduit une petite meute de loups. La population _ devrait rapidement diminuer.",des cerfs,des loups,1
+29,Les archéologues ont découvert que des hommes préhistoriques vivaient à Laputa il y a 20 000 ans. _ cherchaient des indices sur les berges de la rivière.,les archéologues,les hommes préhistoriques,1
+30,La police a arrêté tous les membres d'un gang. _ essayaient de stopper un trafic de drogue dans le quartier.,le gang,la police,2
+31,J'ai mis le gâteau dans le frigo. Il y a beaucoup de sucre _.,dans le gâteau,dans le frigo,1
+32,"Samuel s'est tordu les deux chevilles et il marche avec des béquilles. D'ici un mois, _ devraient être guéries.",les béquilles,les chevilles,2
+33,"Les partisans du nouveau projet de loi sont arrivés à la mairie, ils ont été surpris que la salle soit pleine d'opposants. _ étaient en minorité.",les opposants,les partisans,2
+34,"Tout le monde a aimé les biscuits à l'avoine; seules quelques personnes ont préféré ceux aux pépites de chocolat. La prochaine fois, il faudra faire plus _.",de biscuits à l'avoine,de biscuits au chocolat,1
+35,"Je n'ai pas trouvé de cuillère, et j'ai pris un stylo pour remuer mon café. Mauvaise idée: _ s'est retrouvé plein de café.",le stylo,le café,1
+36,Stéphane suit toujours l'exemple de Fred. _ l' admire énormément.,Stéphane,Fred,1
+37,La table ne passe pas par la porte parce qu'elle est trop large.,la porte,la table,2
+38,"Jean a promis à Benoît de partir, et _ est parti au bout d'une heure.",Benoît,Jean,2
+39,"Claire a frappé à la porte de Sylvie, mais _ n'a pas eu de réponse.",Claire,Sylvie,1
+40,Joël a payé le détective quand _ a reçu le rapport final sur l'affaire.,le détective,Joël,2
+41,Gérard a appelé le barman. _ a rendu sa pinte vide.,Le barman,Gérard,2
+42,Thomas a conduit Raphaël en voiture parce que _ n'aime pas conduire tout seul.,Raphaël,Thomas,2
+43,"Benoît a passé son assiette à moitié pleine à Jean, car _ n'avait pas faim.",Jean,Benoît,2
+44,Benoît a passé la gameboy à Jean. Car ce n'était pas le tour_.,de Benoît,de Jean,1
+45,Thierry ne voulait pas partager ses jouets avec Benoît. _ a pleuré.,Thierry,Benoît,2
+46,Le Dr. Vincenot a informé Michel qu'il avait _ et a évoqué avec lui son traitement à venir.,un cancer,pris sa retraite,1
+47,Claire a donné des bonbons à Jeanine parce que _ n'avait pas faim.,Jeanine,Claire,2
+48,Jérémy a demandé une faveur à Robert mais _ a essuyé un refus.,Jérémy,Robert,1
+49,Kirilov a cédé la présidence à Chatoff parce que _ était moins populaire.,Kirilov,Chatoff,1
+50,"Joël a vu son frère faire du ski à la télévision hier soir, mais _ ne l'a pas reconnu.",le frère de Joël,Joël,2
+51,"Les conseillers municipaux ont refusé une autorisation aux manifestants, car _ craignent la violence.",les conseillers municipaux,les manifestants,1
+52,"Alors qu'elles courent à la même vitesse, Sarah a battu Sabine car _ a réussi son départ.",Sarah,Sabine,1
+53,La sculpture est tombée de l'étagère car _ était trop lourde.,la sculpture,l'étagère,1
+54,Le dessin de Sam est accroché au dessus de celui de Tina. Les oeuvres mises en valeurs sont placées le plus haut possible. Le _ est mis en valeur.,le dessin de Sam,le dessin de Tina,1
+55,"François s'est fâché contre Thomas, car le grille-pain que _ lui a acheté ne marche pas.",François,Thomas,1
+56,Pierre envie Martin même si _ est bien plus brillant.,Pierre,Martin,1
+57,"Simon a expliqué sa théorie à Marc, mais _ ne l'a pas convaincu.",Marc,Simon,2
+58,Il y a du savon dans le siphon de douche. Il faut retirer_.,le siphon,le savon,2
+59,"Le rendez-vous n'a commencé qu'à 16:00 et mon train était à 16:30 donc j'étais pressé. Heureusement, _ a été de courte durée.",mon train,le rendez-vous,2
+60,La pluie a commencé à tomber au début d'une séance de yoga en plein air et _ a continué jusqu'à vingt-deux heures.,la séance,la pluie,2
+61,"J'ai pris un vieux chiffon pour nettoyer le couteau, ensuite j'ai mis _ au linge sale.",le couteau,le chiffon,2
+62,"Anne a demandé à Marie les horaires de fermeture de la bibliothèque, car _ les avait oubliés.",Marie,Anne,2
+63,"Je n'ai pas pu mettre la carafe sur l'étagère, parce que _ était trop lourde.",la carafe,l'étagère,1
+64,Pierre jouait aux cartes avec Adam qui menait au score. Si la chance d'Adam n'avait pas tourné _ aurait perdu.,Adam,Pierre,2
+65,Un chien s'était assis sur la pelouse mais il s'est rapidement déplacé sous un arbre parce qu'il faisait trop chaud _.,sous l'arbre,sur la pelouse,2
+66,Anne a accouché d'une fille le mois dernier. _ épanouie.,Anne,la fille d'Anne,1
+67,Le chien courait après un chat qui a alors grimpé dans un arbre. _ est resté en bas toute la nuit.,le chat,le chien,2
+68,Jean faisait son jogging dans le parc quand il a vu un homme jongler avec des pastèques. _ était très impressionné.,Jean,le jongleur,1
+69,Boris a fait un malaise sur le trottoir et Carlo s'est approché pour l'aider. _ était très faible.,Carlo,Boris,2
+70,Pierre et Marc sont poursuivis pour diffamation. Pierre a écrit dans leur livre plusieurs faux témoignages que Marc a colportés. _ aurait dû être plus honnête.,Pierre,Marc,1
+71,Marie a pris son violon pour jouer un de ses morceaux favoris. Il possède _ depuis son enfance.,le violon,le morceau,1
+72,"Sarah a emprunté un livre à la bibliothèque, elle en a besoin pour un article sur lequel elle travaille. Elle lira _ à la maison.",l'article,le livre,2
+73,"Esther pense qu'elle économisera sur les frais de port si elle installe son usine à Toulouse au lieu de Lille. En effet, beaucoup de ses clients habitent à _.",Lille,Toulouse,2
+74,Les scientifiques étudient trois espèces de poissons trouvées récemment dans l'océan indien. _ ont commencé il y a deux ans.,les scientifiques,les poissons,1
+75,Denis a dû empêcher Benoît de maltraiter l'oiseau blessé. _ est vraiment compatissant.,Denis,Benoît,1
+76,"Prise en tenaille par la défense, Emma n'a pas pu envoyer la balle à Jeanine parce qu'elle avait vu que _ était démarquée.",Jeanine,Emma,1
+77,"Le scooter a dépassé le bus scolaire, car _ roulait trop vite.",Le scooter,Le bus scolaire,1
+78,Marc a dit que son adversaire Frank méritait largement sa victoire. _ fut flatté.,Marc,Frank,2
+79,L'éponge de Paul va abîmer la carafe : _ est en fer.,la carafe,l'éponge,2
+80,Jean n'a pas pu voir la scène : Benoît était devant lui et _ est plus petit.,Benoît,Jean,2
+81,Anna a mieux réussi l'examen que son amie Lucy car _ avait beaucoup révisé.,Anna,Lucy,1
+82,Les pompiers sont arrivés avant les policiers alors que _ venaient de plus loin.,Les pompiers,Les policiers,1
+83,"Jérémy s'est emporté contre Kevin, car _ était très contrarié.",Kevin,Jérémy,2
+84,"Le sac de pommes de terre est au-dessus du sac de farine, donc il faudra déplacer _ en premier.",le sac de farine,le sac de pommes de terre,2
+85,J'ai étalé la nappe sur la table pour montrer _.,la table,la nappe,2
+86,Sylvie est au courant de tous les problèmes personnels de Marie car _ est curieuse.,Marie,Sylvie,2
+87,Sandrine a appris que le fils d'Anne avait eu un accident car _ l'a prévenue.,Anne,Sandrine,1
+88,"Le frère jumeau de Joël arrive toujours à le battre au tennis, même si _ a suivi deux ans de cours en moins.",le frère de Joël,Joël,1
+89,Le tableau dans le salon de Mark représente un arbre. _ est placé à droite de la bibliothèque.,le tableau,l'arbre,1
+90,J'ai sorti le portable de mon sac pour que _ soit plus accessible.,mon sac,le portable,2
+91,"Je suis sûre que ce monument est dans mon guide, _ est incontournable.",le guide,le monument,2
+92,La chatte attendait la souris à côté du trou. _ était très impatiente.,la chatte,la souris,1
+93,"J'ai mis la clé dans la serrure, mais elle était bouchée avec du chewing-gum, je n'ai pas pu extirper _.",la clé,la serrure,1
+94,Le braqueur est entré dans la banque et a poignardé un des guichetiers. _ a été condamné presque immédiatement.,le braqueur,le guichetier,1
+95,Samuel et Amélie sont passionnément amoureux mais les parents d'Amélie sont contre cette relation car _ sont jeunes.,Samuel et Amélie,les parents d'Amélie,1
+96,Les renards viennent la nuit dans la cour et attaquent les lapins. _ sont devenus téméraires.,les lapins,les renards,2
+97,Gabrielle est contente d'avoir échangé son pull contre mon gilet. Elle pense qu'e _ est très démodé.,le pull,le gilet,1
+98,Regarde! Il y a un requin qui nage juste en dessous de ce canard ! _ devrait vite se mettre à l'abri !,le requin,le canard,2
+99,J'ai lâché une aile de papillon sur la table et _ s'est cassée.,la table,l'aile de papillon,2
