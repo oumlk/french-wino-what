@@ -1,0 +1,1841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="WS-fr.xsl"?>
+
+<collection name="French Winograd Schemas" authors="Amsili, Pascal and Seminck, Olga" version="1.3" license="Creative Commons Attribution-ShareAlike 4.0 International License">
+
+<schema id="1" engn="02">
+  <text>
+    <txt1> La coupe n'entre pas dans la valise marron, car elle est trop </txt1>
+    <wordA>grande</wordA>
+    <wordB>petite</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui est trop </qn1>
+    <qwordA>grand</qwordA>
+    <qwordB>petit</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la coupe</answer1>
+  <answer2>la valise</answer2>
+</schema>
+
+<schema id="2" engn="04">
+  <text>
+    <txt1> Paul a essayé de joindre Georges sur son téléphone, mais il </txt1>
+    <wordA>n'a pas réussi</wordA>
+    <wordB>n'a pas répondu</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>n'a pas réussi</qwordA>
+    <qwordB>n'a pas répondu</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Paul</answer1>
+  <answer2>Georges</answer2>
+</schema>
+
+<schema id="3" engn="05">
+  <text>
+    <txt1> L'avocat a posé une question au témoin, mais il a refusé </txt1>
+    <wordA>de la répéter</wordA>
+    <wordB>d'y répondre</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a refusé de </qn1>
+    <qwordA>répéter</qwordA>
+    <qwordB>répondre à</qwordB>
+    <qn2> la question ?</qn2>
+  </question>
+  <answer1>l'avocat</answer1>
+  <answer2>le témoin</answer2>
+</schema>
+
+<schema id="4" engn="08">
+  <text>
+    <txt1> Nicolas n'a pas pu soulever son fils car il était trop </txt1>
+    <wordA>faible</wordA>
+    <wordB>lourd</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui était trop </qn1>
+    <qwordA>faible</qwordA>
+    <qwordB>lourd</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Nicolas</answer1>
+  <answer2>son fils</answer2>
+</schema>
+
+<schema id="5" engn="23">
+  <text>
+    <txt1> Les lycéens harcelaient les collégiens, donc on les a </txt1>
+    <wordA>punis</wordA>
+    <wordB>défendus</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a-t-on </qn1>
+    <qwordA>puni</qwordA>
+    <qwordB>défendu</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les lycéens</answer1>
+  <answer2>les collégiens</answer2>
+</schema>
+
+<schema id="6" engn="24">
+  <text>
+    <txt1> J'ai versé l'eau de la carafe dans la tasse jusqu'à ce qu'elle soit </txt1>
+    <wordA>vide</wordA>
+    <wordB>pleine</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui était </qn1>
+    <qwordA>vide</qwordA>
+    <qwordB>plein</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la carafe</answer1>
+  <answer2>la tasse</answer2>
+</schema>
+
+<schema id="7" engn="42">
+  <text>
+    <txt1> Bernard a payé les études de Charles. Il est très </txt1>
+    <wordA>généreux</wordA>
+    <wordB>reconnaissant</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est très </qn1>
+    <qwordA>généreux</qwordA>
+    <qwordB>reconnaissant</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Bernard</answer1>
+  <answer2>Charles</answer2>
+</schema>
+
+<schema id="8" engn="43">
+  <text>
+    <txt1> Bernard a payé les études de Charles, mais celui-ci ne l'a pas remercié. Il est vraiment </txt1>
+    <wordA>blessé</wordA>
+    <wordB>ingrat</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est </qn1>
+    <qwordA>blessé</qwordA>
+    <qwordB>ingrat</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Bernard</answer1>
+  <answer2>Charles</answer2>
+</schema>
+
+<schema id="9" engn="46">
+  <text>
+    <txt1> Si l'escroc avait réussi à tromper Samuel, il aurait pu </txt1>
+    <wordA>gagner</wordA>
+    <wordB>perdre</wordB>
+    <txt2> beaucoup d'argent. </txt2>
+  </text>
+  <question>
+    <qn1>Qui aurait pu </qn1>
+    <qwordA>gagner</qwordA>
+    <qwordB>perdre</qwordB>
+    <qn2> beaucoup d'argent ?</qn2>
+  </question>
+  <answer1>l'escroc</answer1>
+  <answer2>Samuel</answer2>
+</schema>
+
+<schema id="10" engn="52">
+  <text>
+    <txt1> Le poisson a mangé le ver. Il était </txt1>
+    <wordA>affamé</wordA>
+    <wordB>délicieux</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui était </qn1>
+    <qwordA>affamé</qwordA>
+    <qwordB>délicieux</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le poisson</answer1>
+  <answer2>le ver</answer2>
+</schema>
+
+<schema id="11" engn="52">
+  <text>
+    <txt1> Pendant la tempête, l'arbre est tombé et s'est écrasé sur le toit de ma maison. Maintenant je dois le </txt1>
+    <wordA>déplacer</wordA>
+    <wordB>réparer</wordB>
+    <txt2>. </txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce que je dois </qn1>
+    <qwordA>déplacer</qwordA>
+    <qwordB>réparer</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>l'arbre</answer1>
+  <answer2>le toit</answer2>
+</schema>
+
+<schema id="12" >
+  <text>
+    <txt1> Joël a vendu sa maison et en a acheté une nouvelle à quelques kilomètres. Il va </txt1>
+    <wordA>déménager</wordA>
+    <wordB>emménager</wordB>
+    <txt2> ce jeudi. </txt2>
+  </text>
+  <question>
+    <qn1>Joël va </qn1>
+    <qwordA>déménager de</qwordA>
+    <qwordB>emménager dans</qwordB>
+    <qn2> quelle maison ?</qn2>
+  </question>
+  <answer1>son ancienne maison</answer1>
+  <answer2>sa nouvelle maison</answer2>
+</schema>
+
+<schema id="13" engn="63">
+  <text>
+    <txt1> Les gens qui commencent à lire les livres de Paul ne peuvent plus les lâcher. Ils sont </txt1>
+    <wordA>enthousiastes</wordA>
+    <wordB>populaires</wordB>
+    <txt2> car Paul écrit vraiment bien.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-qui est </qn1>
+    <qwordA>enthousiaste</qwordA>
+    <qwordB>populaire</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les gens</answer1>
+  <answer2>les livres de Paul</answer2>
+</schema>
+
+<schema id="14" engn="69">
+  <text>
+    <txt1> Claire a frappé à la porte de Sylvie, mais personne n'a répondu. Elle était </txt1>
+    <wordA>déçue</wordA>
+    <wordB>sortie</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui était </qn1>
+    <qwordA>déçue</qwordA>
+    <qwordB>sortie</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Claire</answer1>
+  <answer2>Sylvie</answer2>
+</schema>
+
+<schema id="15" engn="70">
+  <text>
+    <txt1> Claire a frappé à la porte de Sylvie, et Sylvie a ouvert. Elle l'a invitée à venir </txt1>
+    <wordA>dehors</wordA>
+    <wordB>à l'intérieur</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a invité l'autre </qn1>
+    <qwordA>dehors</qwordA>
+    <qwordB>à l'intérieur</qwordB>
+    <qn2> ? </qn2>
+  </question>
+  <answer1>Claire</answer1>
+  <answer2>Sylvie</answer2>
+</schema>
+
+<schema id="16" engn="71">
+  <text>
+    <txt1> Simon a pris des cours de français avec Adam, car il </txt1>
+    <wordA>voulait</wordA>
+    <wordB>savait</wordB>
+    <txt2> parler français couramment.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>voulait</qwordA>
+    <qwordB>savait</qwordB>
+    <qn2> parler français couramment ?</qn2>
+  </question>
+  <answer1>Simon</answer1>
+  <answer2>Adam</answer2>
+</schema>
+
+<schema id="17" engn="72">
+  <text>
+    <txt1> Le chemin pour aller au lac était bloqué, donc on n'a pas pu l'</txt1>
+    <wordA>emprunter</wordA>
+    <wordB>atteindre</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est ce que l'on n'a pas pu </qn1>
+    <qwordA>emprunter</qwordA>
+    <qwordB>atteindre</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le chemin</answer1>
+  <answer2>le lac</answer2>
+</schema>
+
+<schema id="18" engn="73">
+  <text>
+    <txt1> On est allé au lac, car un requin a été aperçu dans la mer, c'était </txt1>
+    <wordA>plus sûr</wordA>
+    <wordB>dangereux</wordB>
+    <txt2> de nager là-bas.</txt2>
+  </text>
+  <question>
+    <qn1>C'était </qn1>
+    <qwordA>plus sûr</qwordA>
+    <qwordB>dangereux</qwordB>
+    <qn2> de nager où ?</qn2>
+  </question>
+  <answer1>dans le lac</answer1>
+  <answer2>dans la mer</answer2>
+</schema>
+
+<schema id="19" engn="77">
+  <text>
+    <txt1> Fred et Alice ont des manteaux très chauds, mais ils ne sont pas </txt1>
+    <wordA>préparés</wordA>
+    <wordB>suffisants</wordB>
+    <txt2> pour l'hiver en Alaska.</txt2>
+  </text>
+  <question>
+    <qn1>Qui ou quoi ne sont pas </qn1>
+    <qwordA>préparés</qwordA>
+    <qwordB>suffisants</qwordB>
+    <qn2> pour l'hiver en Alaska?</qn2>
+  </question>
+  <answer1>Fred et Alice</answer1>
+  <answer2>les manteaux</answer2>
+</schema>
+
+<schema id="20" engn="78">
+  <text>
+    <txt1> Dupont a visité la tombe de Dubois en 1765. A cette date il était </txt1>
+    <wordA>sur la route</wordA>
+    <wordB>mort</wordB>
+    <txt2> depuis cinq ans. </txt2>
+  </text>
+  <question>
+    <qn1>Qui était </qn1>
+    <qwordA>sur la route</qwordA>
+    <qwordB>mort</qwordB>
+    <qn2> depuis cinq ans ?</qn2>
+  </question>
+  <answer1>Dupont</answer1>
+  <answer2>Dubois</answer2>
+</schema>
+
+<schema id="21" engn="79">
+  <text>
+    <txt1> Henry a été très influencé par Arnault, même s'il a vécu deux siècles plus </txt1>
+    <wordA>tard</wordA>
+    <wordB>tôt</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a vécu plus </qn1>
+    <qwordA>tard</qwordA>
+    <qwordB>tôt</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Henry</answer1>
+  <answer2>Arnault</answer2>
+</schema>
+
+<schema id="22" engn="81">
+  <text>
+    <txt1> Je ne peux pas couper la planche avec cette scie, elle est trop </txt1>
+    <wordA>épaisse</wordA>
+    <wordB>petite</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui est trop </qn1>
+    <qwordA>épais</qwordA>
+    <qwordB>petit</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la planche</answer1>
+  <answer2>la scie</answer2>
+</schema>
+
+<schema id="23" engn="82">
+  <text>
+    <txt1> La nuit, les renards entrent dans la cour et attaquent les poules. Je devrais les </txt1>
+    <wordA>tuer</wordA>
+    <wordB>protéger</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce que je devrais </qn1>
+    <qwordA>tuer</qwordA>
+    <qwordB>protéger</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les renards</answer1>
+  <answer2>les poules</answer2>
+</schema>
+
+<schema id="24" engn="86">
+  <text>
+    <txt1> Fred regardait la télé quand Georges est parti faire les courses. Une heure après il </txt1>
+    <wordA>s'est levé</wordA>
+    <wordB>est revenu</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>s'est levé</qwordA>
+    <qwordB>est revenu</qwordB>
+    <qn2> ? </qn2>
+  </question>
+  <answer1>Fred</answer1>
+  <answer2>Georges</answer2>
+</schema>
+
+<schema id="25" engn="88">
+  <text>
+    <txt1> Fred est le seul homme encore vivant à se rappeler de mon arrière grand-père.  C'</txt1>
+    <wordA>est</wordA>
+    <wordB>était</wordB>
+    <txt2> un homme remarquable. </txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>est</qwordA>
+    <qwordB>était</qwordB>
+    <qn2> un homme remarquable ? </qn2>
+  </question>
+  <answer1>Fred</answer1>
+  <answer2>mon arrière grand-père</answer2>
+</schema>
+
+<schema id="26" engn="89">
+  <text>
+    <txt1> Fred est le seul homme encore vivant à se rappeler de mon père quand il était un enfant. Quand Fred a vu mon père pour la première fois, il avait 18 </txt1>
+    <wordA>ans</wordA>
+    <wordB>mois</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui avait 18 </qn1>
+    <qwordA>ans</qwordA>
+    <qwordB>mois</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Fred</answer1>
+  <answer2>mon père</answer2>
+</schema>
+
+<schema id="27" engn="90">
+  <text>
+    <txt1> En juillet, le Kamchatka a déclaré la guerre à Yakoutsk. Comme l'armée de Yakoutsk était bien mieux équipée que celle du Kamchatka, ils ont </txt1>
+    <wordA>gagné</wordA>
+    <wordB>perdu</wordB>
+    <txt2> en quelques semaines. </txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>gagné</qwordA>
+    <qwordB>perdu</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Yakoutsk</answer1>
+  <answer2>le Kamchatka</answer2>
+</schema>
+
+<schema id="29" engn="94">
+  <text>
+    <txt1> Il y a trop de cerfs dans le parc, et les gardes forestiers ont introduit une petite meute de loups. Leur population devrait rapidement </txt1>
+    <wordA>diminuer</wordA>
+    <wordB>augmenter</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Quelle  population devrait </qn1>
+    <qwordA>diminuer</qwordA>
+    <qwordB>augmenter</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les cerfs</answer1>
+  <answer2>les loups</answer2>
+</schema>
+
+<schema id="30" engn="95">
+  <text>
+    <txt1> Les archéologues ont découvert que des hommes préhistoriques vivaient à Laputa il y a 20 000 ans. Ils cherchaient </txt1>
+    <wordA>des indices</wordA>
+    <wordB>du gibier</wordB>
+    <txt2> sur les berges de la rivière. </txt2>
+  </text>
+  <question>
+    <qn1>Qui cherchait  </qn1>
+    <qwordA>des indices</qwordA>
+    <qwordB>du gibier</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les archéologues</answer1>
+  <answer2>les hommes préhistoriques</answer2>
+</schema>
+
+<schema id="31" engn="98">
+  <text>
+    <txt1> La police a arrêté tous les membres d'un gang. Ils essayaient </txt1>
+    <wordA>de stopper</wordA>
+    <wordB>d'organiser</wordB>
+    <txt2> un trafic de drogue dans le quartier. </txt2>
+  </text>
+  <question>
+    <qn1>Qui essayait </qn1>
+    <qwordA>de stopper</qwordA>
+    <qwordB>d'organiser</qwordB>
+    <qn2> un trafic de drogue ?</qn2>
+  </question>
+  <answer1>la police</answer1>
+  <answer2>le gang</answer2>
+</schema>
+
+<schema id="32" engn="99">
+  <text>
+    <txt1> J'ai mis le gâteau dans le frigo. Il y a beaucoup de </txt1>
+    <wordA>sucre</wordA>
+    <wordB>restes</wordB>
+    <txt2> dedans.</txt2>
+  </text>
+  <question>
+    <qn1>Où est-ce qu'il y a beaucoup de </qn1>
+    <qwordA>sucre</qwordA>
+    <qwordB>restes</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>dans le gâteau</answer1>
+  <answer2>dans le frigo</answer2>
+</schema>
+
+<schema id="33" engn="100">
+  <text>
+    <txt1> Samuel s'est tordu les deux chevilles et il marche avec des béquilles. D'ici un mois, elles devraient être </txt1>
+    <wordA>guéries</wordA>
+    <wordB>superflues</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui devrait être </qn1>
+    <qwordA>guéries</qwordA>
+    <qwordB>superflues</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les chevilles</answer1>
+  <answer2>les béquilles</answer2>
+</schema>
+
+<schema id="34" engn="101">
+  <text>
+    <txt1> Les partisans du nouveau projet de loi sont arrivés à la mairie, ils ont été surpris que la salle soit pleine d'opposants. Ils étaient en </txt1>
+    <wordA>minorité</wordA>
+    <wordB>majorité</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui étaient en </qn1>
+    <qwordA>minorité</qwordA>
+    <qwordB>majorité</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les partisans</answer1>
+  <answer2>les opposants</answer2>
+</schema>
+
+<schema id="35" engn="102">
+  <text>
+    <txt1> Tout le monde a aimé les biscuits à l'avoine; seules quelques personnes ont préféré ceux aux pépites de chocolat. La prochaine fois, il faudra en faire </txt1>
+    <wordA>plus</wordA>
+    <wordB>moins</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Il faudra faire </qn1>
+    <qwordA>plus</qwordA>
+    <qwordB>moins</qwordB>
+    <qn2> de quels biscuits ?</qn2>
+  </question>
+  <answer1>des biscuits à l'avoine</answer1>
+  <answer2>des biscuits au chocolat</answer2>
+</schema>
+
+<schema id="36" engn="105">
+  <text>
+    <txt1> Je n'ai pas trouvé de cuillère, et j'ai pris un stylo pour remuer mon café. Mauvaise idée: il s'est retrouvé plein </txt1>
+    <wordA>de café</wordA>
+    <wordB>d'encre</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui s'est retrouvé plein </qn1>
+    <qwordA>de café</qwordA>
+    <qwordB>d'encre</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le stylo</answer1>
+  <answer2>le café</answer2>
+</schema>
+
+<schema id="37" engn="106">
+  <text>
+    <txt1> Stéphane suit toujours l'exemple de Fred. Il l'</txt1>
+    <wordA>admire</wordA>
+    <wordB>influence</wordB>
+    <txt2> énormément.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>admire</qwordA>
+    <qwordB>influence</qwordB>
+    <qn2> l'autre ?</qn2>
+  </question>
+  <answer1>Stéphane</answer1>
+  <answer2>Fred</answer2>
+</schema>
+
+<schema id="38" engn="107">
+  <text>
+    <txt1> La table ne passe pas par la porte parce qu'elle est trop </txt1>
+    <wordA>large</wordA>
+    <wordB>étroite</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui est trop </qn1>
+    <qwordA>large</qwordA>
+    <qwordB>étroite</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la table</answer1>
+  <answer2>la porte</answer2>
+</schema>
+
+<schema id="39" engn="109">
+  <text>
+    <txt1> Benoît pense que monopoliser l'attention était impoli </txt1>
+    <wordA>envers</wordA>
+    <wordB>de la part de</wordB>
+    <txt2> Bertrand.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> monopolisé l'attention ?</qn2>
+  </question>
+  <answer1>Benoît</answer1>
+  <answer2>Bertrand</answer2>
+</schema>
+
+<schema id="40" engn="110">
+  <text>
+    <txt1> Jean </txt1>
+    <wordA>s'est mis au service de</wordA>
+    <wordB>a embauché</wordB>
+    <txt2> Benoît pour s'occuper de lui. </txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> s'occupe de l'autre ?</qn2>
+  </question>
+  <answer1>Jean</answer1>
+  <answer2>Benoît</answer2>
+</schema>
+
+<schema id="41" engn="111">
+  <text>
+    <txt1> Jean a </txt1>
+    <wordA>promis</wordA>
+    <wordB>ordonné</wordB>
+    <txt2> à Benoît de partir, et il est parti au bout d'une heure.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> est parti ?</qn2>
+  </question>
+  <answer1>Jean</answer1>
+  <answer2>Benoît</answer2>
+</schema>
+
+<schema id="42" engn="114">
+  <text>
+    <txt1> Claire a frappé à la porte de Sylvie, mais elle n'a pas </txt1>
+    <wordA>eu de réponse</wordA>
+    <wordB>répondu</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui n'a pas </qn1>
+    <qwordA>eu de réponse</qwordA>
+    <qwordB>répondu</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Claire</answer1>
+  <answer2>Sylvie</answer2>
+</schema>
+
+<schema id="43" engn="115">
+  <text>
+    <txt1> Joël a payé le détective quand il a </txt1>
+    <wordA>reçu</wordA>
+    <wordB>livré</wordB>
+    <txt2> le rapport final sur l'affaire.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>reçu</qwordA>
+    <qwordB>livré</qwordB>
+    <qn2> le rapport final ?</qn2>
+  </question>
+  <answer1>Joël</answer1>
+  <answer2>le détective</answer2>
+</schema>
+
+<schema id="44" engn="117">
+  <text>
+    <txt1> Gérard a appelé le barman et lui a rendu </txt1>
+    <wordA>sa pinte vide</wordA>
+    <wordB>la clé de ses toilettes</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1></qn1>
+    <qwordA>La pinte vide</qwordA>
+    <qwordB>la clé des toilettes</qwordB>
+    <qn2> de qui ?</qn2>
+  </question>
+  <answer1>de Gérard</answer1>
+  <answer2>du barman</answer2>
+</schema>
+
+<schema id="45" engn="121">
+  <text>
+    <txt1> Thomas a conduit Raphaël en voiture parce qu'il n'aime pas </txt1>
+    <wordA>conduire tout seul</wordA>
+    <wordB>marcher</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui n'aime pas </qn1>
+    <qwordA>conduire tout seul</qwordA>
+    <qwordB>marcher</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Thomas</answer1>
+  <answer2>Raphaël</answer2>
+</schema>
+
+<schema id="46" engn="122">
+  <text>
+    <txt1> Benoît a passé son assiette à moitié pleine à Jean, car il </txt1>
+    <wordA>n'avait pas</wordA>
+    <wordB>avait</wordB>
+    <txt2> faim.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>n'avait pas</qwordA>
+    <qwordB>avait</qwordB>
+    <qn2> faim ?</qn2>
+  </question>
+  <answer1>Benoît</answer1>
+  <answer2>Jean</answer2>
+</schema>
+
+<schema id="47" engn="123">
+  <text>
+    <txt1> Benoît a passé la gameboy à Jean car </txt1>
+    <wordA>ce n'était pas</wordA>
+    <wordB>c'était</wordB>
+    <txt2> son tour.</txt2>
+  </text>
+  <question>
+    <qn1></qn1>
+    <qwordA>Ce n'était pas</qwordA>
+    <qwordB>C'était</qwordB>
+    <qn2> le tour de qui ?</qn2>
+  </question>
+  <answer1>de Benoît</answer1>
+  <answer2>de Jean</answer2>
+</schema>
+
+<schema id="48" engn="124">
+  <text>
+    <txt1> L'homme a porté le garçon sur son </txt1>
+    <wordA>dos</wordA>
+    <wordB>lit</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Le </qn1>
+    <qwordA>dos</qwordA>
+    <qwordB>lit</qwordB>
+    <qn2> de qui ?</qn2>
+  </question>
+  <answer1>de l'homme</answer1>
+  <answer2>du garçon</answer2>
+</schema>
+
+<schema id="49" engn="126">
+  <text>
+    <txt1> Benoît a pleuré parce que Thierry ne voulait pas </txt1>
+    <wordA>accepter</wordA>
+    <wordB>partager</wordB>
+    <txt2> ses jouets.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> possédait les jouets ?</qn2>
+  </question>
+  <answer1>Benoît</answer1>
+  <answer2>Thierry</answer2>
+</schema>
+
+<schema id="50" engn="130">
+  <text>
+    <txt1> Le père a porté le garçon endormi dans </txt1>
+    <wordA>ses bras</wordA>
+    <wordB>son couffin</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1></qn1>
+    <qwordA>Les bras</qwordA>
+    <qwordB>le couffin</qwordB>
+    <qn2> de qui ?</qn2>
+  </question>
+  <answer1>du père</answer1>
+  <answer2>du garçon</answer2>
+</schema>
+
+<schema id="51" engn="131">
+  <text>
+    <txt1> La femme a tenu la fille contre sa </txt1>
+    <wordA>poitrine</wordA>
+    <wordB>volonté</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1></qn1>
+    <qwordA>La poitrine</qwordA>
+    <qwordB>La volonté</qwordB>
+    <qn2> de qui ?</qn2>
+  </question>
+  <answer1>celle de la femme</answer1>
+  <answer2>celle de la fille</answer2>
+</schema>
+
+<schema id="52" engn="133">
+  <text>
+    <txt1> Le Dr. Vincenot a informé Michel qu'il avait </txt1>
+    <wordA>pris sa retraite</wordA>
+    <wordB>un cancer</wordB>
+    <txt2> et a évoqué avec lui son traitement à venir.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>pris sa retraite</qwordA>
+    <qwordB>un cancer</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le Dr Vincenot</answer1>
+  <answer2>Michel</answer2>
+</schema>
+
+<schema id="53" engn="136">
+  <text>
+    <txt1> Claire a donné des bonbons à Jeanine parce qu'elle </txt1>
+    <wordA>n'avait pas</wordA>
+    <wordB>avait</wordB>
+    <txt2> faim.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>n'avait pas</qwordA>
+    <qwordB>avait</qwordB>
+    <qn2> faim ?</qn2>
+  </question>
+  <answer1>Claire</answer1>
+  <answer2>Jeanine</answer2>
+</schema>
+
+<schema id="54" engn="138">
+  <text>
+    <txt1> Jérémy a demandé une faveur à Robert mais il a </txt1>
+    <wordA>essuyé un refus</wordA>
+    <wordB>refusé</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>essuyé un refus</qwordA>
+    <qwordB>refusé</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Jérémy</answer1>
+  <answer2>Robert</answer2>
+</schema>
+
+<schema id="55" engn="139">
+  <text>
+    <txt1> Kirilov a cédé la présidence à Chatoff parce qu'il était </txt1>
+    <wordA>moins</wordA>
+    <wordB>plus</wordB>
+    <txt2> populaire.</txt2>
+  </text>
+  <question>
+    <qn1>Qui était </qn1>
+    <qwordA>moins</qwordA>
+    <qwordB>plus</qwordB>
+    <qn2> populaire ?</qn2>
+  </question>
+  <answer1>Kirilov</answer1>
+  <answer2>Chatoff</answer2>
+</schema>
+
+<schema id="56" engn="141">
+  <text>
+    <txt1> Joël a vu son frère faire du ski à la télévision hier soir, mais l'idiot </txt1>
+    <wordA>ne l'a pas reconnu</wordA>
+    <wordB>n'avait pas son manteau</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> est un idiot ?</qn2>
+  </question>
+  <answer1>Joël</answer1>
+  <answer2>le frère de Joël</answer2>
+</schema>
+
+<schema id="58" engn="01">
+  <text>
+    <txt1> Les conseillers municipaux ont refusé une autorisation aux manifestants, car ils </txt1>
+    <wordA>craignent</wordA>
+    <wordB>prônent</wordB>
+    <txt2> la violence.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>craint</qwordA>
+    <qwordB>prône</qwordB>
+    <qn2> la violence ? </qn2>
+  </question>
+  <answer1>les conseillers municipaux</answer1>
+  <answer2>les manifestants</answer2>
+</schema>
+
+<schema id="59" engn="03">
+  <text>
+    <txt1> Claire a remercié Suzanne pour tous les efforts qu'elle lui a </txt1>
+    <wordA>demandés</wordA>
+    <wordB>consacrés</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>demandé</qwordA>
+    <qwordB>consacré</qwordB>
+    <qn2> des efforts ?</qn2>
+  </question>
+  <answer1>Claire</answer1>
+  <answer2>Suzanne</answer2>
+</schema>
+
+<schema id="60" engn="12">
+  <text>
+    <txt1> Alors qu'elles courent à la même vitesse, Sarah a battu Sabine car elle a </txt1>
+    <wordA>réussi</wordA>
+    <wordB>raté</wordB>
+    <txt2> son départ.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>réussi</qwordA>
+    <qwordB>raté</qwordB>
+    <qn2> son départ ?</qn2>
+  </question>
+  <answer1>Sarah</answer1>
+  <answer2>Sabine</answer2>
+</schema>
+
+<schema id="61" engn="13">
+  <text>
+    <txt1> La sculpture est tombée de l'étagère car elle était trop </txt1>
+    <wordA>lourde</wordA>
+    <wordB>encombrée</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui était trop </qn1>
+    <qwordA>lourd</qwordA>
+    <qwordB>encombré</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la sculpture</answer1>
+  <answer2>l'étagère</answer2>
+</schema>
+
+<schema id="62" engn="14">
+  <text>
+    <txt1> Le dessin de Sam est accroché au dessus de celui de Tina. Les oeuvres mises en valeurs sont placées le plus </txt1>
+    <wordA>haut</wordA>
+    <wordB>bas</wordB>
+    <txt2> possible.</txt2>
+  </text>
+  <question>
+    <qn1>Quel dessin </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> est mis en valeur ?</qn2>
+  </question>
+  <answer1>le dessin de Sam</answer1>
+  <answer2>le dessin de Tina</answer2>
+</schema>
+
+<schema id="63" engn="17">
+  <text>
+    <txt1> François s'est fâché contre Thomas, car le grille-pain qu'il lui a </txt1>
+    <wordA>acheté</wordA>
+    <wordB>vendu</wordB>
+    <txt2> ne marche pas.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a </qn1>
+    <qwordA>acheté</qwordA>
+    <qwordB>vendu</qwordB>
+    <qn2> un grille-pain ? </qn2>
+  </question>
+  <answer1>François</answer1>
+  <answer2>Thomas</answer2>
+</schema>
+
+<schema id="64" engn="20">
+  <text>
+    <txt1> Pierre envie Martin </txt1>
+    <wordA>même si</wordA>
+    <wordB>car</wordB>
+    <txt2> il est bien plus brillant.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> est le plus brillant ?</qn2>
+  </question>
+  <answer1>Pierre</answer1>
+  <answer2>Martin</answer2>
+</schema>
+
+<schema id="65" engn="26">
+  <text>
+    <txt1> Simon a expliqué sa théorie à Marc, mais il ne l'a pas </txt1>
+    <wordA>convaincu</wordA>
+    <wordB>compris</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui n'a pas </qn1>
+    <qwordA>convaincu</qwordA>
+    <qwordB>compris</qwordB>
+    <qn2> l'autre ?</qn2>
+  </question>
+  <answer1>Simon</answer1>
+  <answer2>Marc</answer2>
+</schema>
+
+<schema id="66" engn="32">
+  <text>
+    <txt1> Il y a du savon dans le siphon de douche. Il faut le </txt1>
+    <wordA>retirer</wordA>
+    <wordB>nettoyer</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui doit être </qn1>
+    <qwordA>retiré</qwordA>
+    <qwordB>nettoyé</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le savon</answer1>
+  <answer2>le siphon</answer2>
+</schema>
+
+<schema id="67" engn="33">
+  <text>
+    <txt1> Le rendez-vous n'a commencé qu'à 16:00 et mon train était à 16:30 donc j'étais pressé. Heureusement, il a été </txt1>
+    <wordA>de courte durée</wordA>
+    <wordB>retardé</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui a été </qn1>
+    <qwordA>de courte durée</qwordA>
+    <qwordB>retardé</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le rendez-vous</answer1>
+  <answer2>mon train</answer2>
+</schema>
+
+<schema id="68" engn="36">
+  <text>
+    <txt1> La pluie a commencé à tomber au début d'une séance de yoga en plein air </txt1>
+    <wordA>et</wordA>
+    <wordB>mais</wordB>
+    <txt2> elle a continué jusqu'à vingt-deux heures.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> a continué jusqu'à vingt-deux heures ?</qn2>
+  </question>
+  <answer1>la pluie</answer1>
+  <answer2>la séance</answer2>
+</schema>
+
+<schema id="69" engn="37">
+  <text>
+    <txt1> J'ai pris un vieux chiffon pour nettoyer le couteau, ensuite je l'ai mis </txt1>
+    <wordA>au linge sale</wordA>
+    <wordB>dans le tiroir</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce que j'ai mis </qn1>
+    <qwordA>au linge sale</qwordA>
+    <qwordB>dans le tiroir</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le chiffon</answer1>
+  <answer2>le couteau</answer2>
+</schema>
+
+<schema id="70" >
+  <text>
+    <txt1> Anne a demandé à Marie les horaires de fermeture de la bibliothèque, </txt1>
+    <wordA>car</wordA>
+    <wordB>mais</wordB>
+    <txt2> elle les avait oubliés.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> a oublié les horaires de fermeture de la bibliothèque ? </qn2>
+  </question>
+  <answer1>Anne</answer1>
+  <answer2>Marie</answer2>
+</schema>
+
+<schema id="71" engn="38">
+  <text>
+    <txt1> Je n'ai pas pu mettre la carafe sur l'étagère, parce qu'elle était trop </txt1>
+    <wordA>lourde</wordA>
+    <wordB>haute</wordB>
+    <txt2>. </txt2>
+  </text>
+  <question>
+    <qn1>Qu'est ce qui était trop </qn1>
+    <qwordA>lourd</qwordA>
+    <qwordB>haut</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la carafe</answer1>
+  <answer2>l'étagère</answer2>
+</schema>
+
+<schema id="72" engn="44">
+  <text>
+    <txt1> Pierre jouait aux cartes avec Adam qui menait au score. Si la chance d'Adam n'avait pas tourné il aurait </txt1>
+    <wordA>perdu</wordA>
+    <wordB>gagné</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui aurait </qn1>
+    <qwordA>perdu</qwordA>
+    <qwordB>gagné</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Pierre</answer1>
+  <answer2>Adam</answer2>
+</schema>
+
+<schema id="73" engn="47">
+  <text>
+    <txt1> Un chien s'était assis sur la pelouse mais il s'est rapidement déplacé sous un arbre parce qu'il y faisait </txt1>
+    <wordA>trop chaud</wordA>
+    <wordB>plus frais</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Où faisait-il </qn1>
+    <qwordA>trop chaud</qwordA>
+    <qwordB>plus frais</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>sur la pelouse</answer1>
+  <answer2>sous l'arbre</answer2>
+</schema>
+
+<schema id="74" >
+  <text>
+    <txt1> Anne a accouché d'une fille le mois dernier. C'est une </txt1>
+    <wordA>mère épanouie</wordA>
+    <wordB>enfant adorable</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est une </qn1>
+    <qwordA>mère épanouie</qwordA>
+    <qwordB>enfant adorable</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Anne</answer1>
+  <answer2>la fille d'Anne</answer2>
+</schema>
+
+<schema id="75" engn="49">
+  <text>
+    <txt1> Le chien courait après un chat qui a alors grimpé dans un arbre. Il est resté en </txt1>
+    <wordA>bas</wordA>
+    <wordB>haut</wordB>
+    <txt2> toute la nuit. </txt2>
+  </text>
+  <question>
+    <qn1>Qui est resté en </qn1>
+    <qwordA>bas</qwordA>
+    <qwordB>haut</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le chien</answer1>
+  <answer2>le chat</answer2>
+</schema>
+
+<schema id="76" engn="58">
+  <text>
+    <txt1> Jean faisait son jogging dans le parc quand il a vu un homme jongler avec des pastèques. Il était très </txt1>
+    <wordA>impressionné</wordA>
+    <wordB>impressionnant</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui était </qn1>
+    <qwordA>impressionné</qwordA>
+    <qwordB>impressionnant</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Jean</answer1>
+  <answer2>le jongleur</answer2>
+</schema>
+
+<schema id="77" engn="59">
+  <text>
+    <txt1> Boris a fait un malaise sur le trottoir et Carlo s'est approché pour l'aider. Il était très </txt1>
+    <wordA>faible</wordA>
+    <wordB>inquiet</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui était très </qn1>
+    <qwordA>faible</qwordA>
+    <qwordB>inquiet</qwordB>
+    <qn2> ? </qn2>
+  </question>
+  <answer1>Boris</answer1>
+  <answer2>Carlo</answer2>
+</schema>
+
+<schema id="78" engn="61">
+  <text>
+    <txt1> Pierre et Marc sont poursuivis pour diffamation. Pierre a écrit dans leur livre plusieurs faux témoignages que Marc a colportés. Il aurait dû être plus </txt1>
+    <wordA>honnête</wordA>
+    <wordB>prudent</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui aurait dû être plus </qn1>
+    <qwordA>honnête</qwordA>
+    <qwordB>prudent</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Pierre</answer1>
+  <answer2>Marc</answer2>
+</schema>
+
+<schema id="79" engn="64">
+  <text>
+    <txt1> Marie a pris son violon pour jouer un de ses morceaux favoris. Elle </txt1>
+    <wordA>le possède</wordA>
+    <wordB>l'aime</wordB>
+    <txt2> depuis son enfance.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce que Marie </qn1>
+    <qwordA>possède</qwordA>
+    <qwordB>aime</qwordB>
+    <qn2> depuis son enfance ?</qn2>
+  </question>
+  <answer1>le violon</answer1>
+  <answer2>le morceau</answer2>
+</schema>
+
+<schema id="80" engn="67">
+  <text>
+    <txt1> Sarah a emprunté un livre à la bibliothèque, elle en a besoin pour un article sur lequel elle travaille. Elle le </txt1>
+    <wordA>lira</wordA>
+    <wordB>rédigera</wordB>
+    <txt2> à la maison.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce que Sarah </qn1>
+    <qwordA>lira</qwordA>
+    <qwordB>rédigera</qwordB>
+    <qn2> à la maison ?</qn2>
+  </question>
+  <answer1>le livre</answer1>
+  <answer2>l'article</answer2>
+</schema>
+
+<schema id="82" engn="92">
+  <text>
+    <txt1> Esther pense qu'elle économisera sur les frais de port si elle installe son usine à Toulouse au lieu de Lille. En effet, </txt1>
+    <wordA>beaucoup</wordA>
+    <wordB>très peu</wordB>
+    <txt2> de ses clients y habitent.</txt2>
+  </text>
+  <question>
+    <qn1>Dans quelle ville habitent </qn1>
+    <qwordA>beaucoup</qwordA>
+    <qwordB>très peu</qwordB>
+    <qn2> des clients d'Esther ? </qn2>
+  </question>
+  <answer1>Toulouse</answer1>
+  <answer2>Lille</answer2>
+</schema>
+
+<schema id="83" engn="96">
+  <text>
+    <txt1> Les scientifiques étudient trois espèces de poissons trouvées récemment dans l'océan indien. Ils </txt1>
+    <wordA>ont commencé</wordA>
+    <wordB>sont apparus</wordB>
+    <txt2> il y a deux ans.</txt2>
+  </text>
+  <question>
+    <qn1>Qui ou quoi </qn1>
+    <qwordA>a commencé</qwordA>
+    <qwordB>est apparu</qwordB>
+    <qn2> il y a deux ans ? </qn2>
+  </question>
+  <answer1>les scientifiques</answer1>
+  <answer2>les poissons</answer2>
+</schema>
+
+<schema id="84" engn="119">
+  <text>
+    <txt1> Thomas a dit "échec" à Raphaël et a </txt1>
+    <wordA>déplacé</wordA>
+    <wordB>capturé</wordB>
+    <txt2> son fou.</txt2>
+  </text>
+  <question>
+    <qn1>Thomas a </qn1>
+    <qwordA>déplacé</qwordA>
+    <qwordB>capturé</qwordB>
+    <qn2> le fou de qui ?</qn2>
+  </question>
+  <answer1>de Thomas</answer1>
+  <answer2>de Raphaël</answer2>
+</schema>
+
+<schema id="85" engn="127">
+  <text>
+    <txt1> Lilianne s'est adressée à Marie, brisant </txt1>
+    <wordA>son silence</wordA>
+    <wordB>sa concentration</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Lilianne a brisé </qn1>
+    <qwordA>le silence</qwordA>
+    <qwordB>la concentration</qwordB>
+    <qn2> de qui ?</qn2>
+  </question>
+  <answer1>de Liliane</answer1>
+  <answer2>de Marie</answer2>
+</schema>
+
+<schema id="86" engn="134">
+  <text>
+    <txt1> Denis a dû empêcher Benoît de maltraiter l'oiseau blessé. Il est vraiment </txt1>
+    <wordA>compatissant</wordA>
+    <wordB>cruel</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est </qn1>
+    <qwordA>compatissant</qwordA>
+    <qwordB>cruel</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Denis</answer1>
+  <answer2>Benoît</answer2>
+</schema>
+
+<schema id="87" engn="140">
+  <text>
+    <txt1> Prise en tenaille par la défense, Emma n'a pas pu envoyer la balle à Jeanine alors qu'elle </txt1>
+    <wordA>avait vu qu'elle était démarquée</wordA>
+    <wordB>était démarquée</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA>avait vu que l'autre était démarquée</qwordA>
+    <qwordB>était démarquée</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Emma</answer1>
+  <answer2>Jeanine</answer2>
+</schema>
+
+<schema id="88" engn="06">
+  <text>
+    <txt1> Le scooter a dépassé le bus scolaire, car il roulait trop </txt1>
+    <wordA>vite</wordA>
+    <wordB>lentement</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui roulait trop </qn1>
+    <qwordA>vite</qwordA>
+    <qwordB>lentement</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Le scooter</answer1>
+  <answer2>Le bus scolaire</answer2>
+</schema>
+
+<schema id="89" engn="07">
+  <text>
+    <txt1> Frank fut </txt1>
+    <wordA>flatté</wordA>
+    <wordB>indigné</wordB>
+    <txt2> quand Marc, son adversaire, a dit qu'il méritait largement sa victoire.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> est le vainqueur ? </qn2>
+  </question>
+  <answer1>Frank</answer1>
+  <answer2>Marc</answer2>
+</schema>
+
+<schema id="90" engn="09">
+  <text>
+    <txt1> L'éponge de Paul va abîmer la carafe : elle est en </txt1>
+    <wordA>fer</wordA>
+    <wordB>cristal</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui est en </qn1>
+    <qwordA>fer</qwordA>
+    <qwordB>cristal</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>l'éponge</answer1>
+  <answer2>la carafe</answer2>
+</schema>
+
+<schema id="91" engn="10">
+  <text>
+    <txt1> Jean n'a pas pu voir la scène : Benoît était devant lui et il est plus </txt1>
+    <wordA>petit</wordA>
+    <wordB>grand</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est le plus </qn1>
+    <qwordA>petit</qwordA>
+    <qwordB>grand</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Jean</answer1>
+  <answer2>Benoît</answer2>
+</schema>
+
+<schema id="92" engn="15">
+  <text>
+    <txt1> Anna a </txt1>
+    <wordA>mieux</wordA>
+    <wordB>moins bien</wordB>
+    <txt2> réussi l'examen que son amie Lucy car elle avait beaucoup révisé.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> a beaucoup révisé ?</qn2>
+  </question>
+  <answer1>Anna</answer1>
+  <answer2>Lucy</answer2>
+</schema>
+
+<schema id="93" engn="16">
+  <text>
+    <txt1> Les pompiers sont arrivés </txt1>
+    <wordA>avant</wordA>
+    <wordB>après</wordB>
+    <txt2> les policiers alors qu'ils venaient de plus loin.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> venait de plus loin ?</qn2>
+  </question>
+  <answer1>Les pompiers</answer1>
+  <answer2>Les policiers</answer2>
+</schema>
+
+<schema id="94" engn="18">
+  <text>
+    <txt1> Jérémy </txt1>
+    <wordA>s'est emporté contre</wordA>
+    <wordB>a pris soin de</wordB>
+    <txt2> Kevin, car il était très contrarié.</txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> était contrarié ?</qn2>
+  </question>
+  <answer1>Jérémy</answer1>
+  <answer2>Kevin</answer2>
+</schema>
+
+<schema id="95" engn="19">
+  <text>
+    <txt1> Le sac de pommes de terre est </txt1>
+    <wordA>au-dessus</wordA>
+    <wordB>en-dessous</wordB>
+    <txt2> du sac de farine, donc il faudra le déplacer en premier.</txt2>
+  </text>
+  <question>
+    <qn1>Quel sac </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> faudra-t-il déplacer en premier ?</qn2>
+  </question>
+  <answer1>le sac de pommes de terre</answer1>
+  <answer2>le sac de farine</answer2>
+</schema>
+
+<schema id="96" engn="22">
+  <text>
+    <txt1> J'ai étalé la nappe sur la table pour la </txt1>
+    <wordA>montrer</wordA>
+    <wordB>protéger</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Pour </qn1>
+    <qwordA>montrer</qwordA>
+    <qwordB>protéger</qwordB>
+    <qn2> quoi ?</qn2>
+  </question>
+  <answer1>la nappe</answer1>
+  <answer2>la table</answer2>
+</schema>
+
+<schema id="97" engn="25">
+  <text>
+    <txt1> Sylvie est au courant de tous les problèmes personnels de Marie car elle est </txt1>
+    <wordA>curieuse</wordA>
+    <wordB>bavarde</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est </qn1>
+    <qwordA>curieuse</qwordA>
+    <qwordB>bavarde</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Sylvie</answer1>
+  <answer2>Marie</answer2>
+</schema>
+
+<schema id="98" engn="27">
+  <text>
+    <txt1> Sandrine a appris que le fils d'Anne avait eu un accident </txt1>
+    <wordA>donc</wordA>
+    <wordB>car</wordB>
+    <txt2> elle l'a prévenue.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a prévenu </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> l'autre au sujet de l'accident ?</qn2>
+  </question>
+  <answer1>Sandrine</answer1>
+  <answer2>Anne</answer2>
+</schema>
+
+<schema id="99" >
+  <text>
+    <txt1> Le frère jumeau de Joël arrive toujours à le battre au tennis, même s'il a suivi deux ans de cours en </txt1>
+    <wordA>moins</wordA>
+    <wordB>plus</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a suivi </qn1>
+    <qwordA>moins</qwordA>
+    <qwordB>plus</qwordB>
+    <qn2> de cours de tennis ?</qn2>
+  </question>
+  <answer1>le frère de Joël</answer1>
+  <answer2>Joël</answer2>
+</schema>
+
+<schema id="100" engn="30">
+  <text>
+    <txt1> Le tableau dans le salon de Mark représente un arbre. Il est placé à droite </txt1>
+    <wordA>de la bibliothèque</wordA>
+    <wordB>d'une maison</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui est à droite </qn1>
+    <qwordA>de la bibliothèque</qwordA>
+    <qwordB>d'une maison</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le tableau</answer1>
+  <answer2>l'arbre</answer2>
+</schema>
+
+<schema id="101" engn="39">
+  <text>
+    <txt1> J'ai sorti le portable de mon sac pour qu'il soit </txt1>
+    <wordA>plus accessible</wordA>
+    <wordB>moins lourd</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est ce qui doit être </qn1>
+    <qwordA>plus accessible</qwordA>
+    <qwordB>moins lourd</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le portable</answer1>
+  <answer2>mon sac</answer2>
+</schema>
+
+<schema id="102" engn="41">
+  <text>
+    <txt1> Je suis sûre que ce monument est dans mon guide, il est </txt1>
+    <wordA>incontournable</wordA>
+    <wordB>complet</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est ce qui est </qn1>
+    <qwordA>incontournable</qwordA>
+    <qwordB>complet</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le monument</answer1>
+  <answer2>le guide</answer2>
+</schema>
+
+<schema id="103" engn="48">
+  <text>
+    <txt1> La chatte attendait la souris à côté du trou. Elle était très </txt1>
+    <wordA>impatiente</wordA>
+    <wordB>prudente</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui était très </qn1>
+    <qwordA>impatiente</qwordA>
+    <qwordB>prudente</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>la chatte</answer1>
+  <answer2>la souris</answer2>
+</schema>
+
+<schema id="104" engn="53">
+  <text>
+    <txt1> J'ai mis la clé dans la serrure, mais elle était bouchée avec du chewing-gum, je n'ai pas pu l'</txt1>
+    <wordA>extirper</wordA>
+    <wordB>ouvrir</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qu'est ce que je n'ai pas pu </qn1>
+    <qwordA>extirper</qwordA>
+    <qwordB>ouvrir</qwordB>
+    <qn2>?</qn2>
+  </question>
+  <answer1>la clé</answer1>
+  <answer2>la serrure</answer2>
+</schema>
+
+<schema id="105" engn="56">
+  <text>
+    <txt1> Le braqueur est entré dans la banque et a poignardé un des guichetiers. Il a été </txt1>
+    <wordA>condamné</wordA>
+    <wordB>soigné</wordB>
+    <txt2> presque immédiatement.</txt2>
+  </text>
+  <question>
+    <qn1>Qui a été </qn1>
+    <qwordA>condamné</qwordA>
+    <qwordB>soigné</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le braqueur</answer1>
+  <answer2>le guichetier</answer2>
+</schema>
+
+<schema id="106" >
+  <text>
+    <txt1> Samuel et Amélie sont passionnément amoureux mais les parents d'Amélie sont contre cette relation car ils sont </txt1>
+    <wordA>jeunes</wordA>
+    <wordB>snobs</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est </qn1>
+    <qwordA>jeune</qwordA>
+    <qwordB>snob</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>Samuel et Amélie</answer1>
+  <answer2>les parents d'Amélie</answer2>
+</schema>
+
+<schema id="107" engn="83">
+  <text>
+    <txt1> Les renards viennent la nuit dans la cour et attaquent les lapins. Ils sont devenus </txt1>
+    <wordA>téméraires</wordA>
+    <wordB>nerveux</wordB>
+    <txt2>.</txt2>
+  </text>
+  <question>
+    <qn1>Qui est devenu </qn1>
+    <qwordA>téméraire</qwordA>
+    <qwordB>nerveux</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>les renards</answer1>
+  <answer2>les lapins</answer2>
+</schema>
+
+<schema id="108" engn="108">
+  <text>
+    <txt1> Gabrielle est contente d'avoir échangé son pull contre mon gilet. Elle pense qu'il est très </txt1>
+    <wordA>démodé</wordA>
+    <wordB>beau</wordB>
+    <txt2>. </txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui est très </qn1>
+    <qwordA>démodé</qwordA>
+    <qwordB>beau</qwordB>
+    <qn2> ?</qn2>
+  </question>
+  <answer1>le pull</answer1>
+  <answer2>le gilet</answer2>
+</schema>
+
+<schema id="28" engn="93">
+  <text>
+    <txt1> Regarde! Il y a un  </txt1>
+    <wordA>têtard</wordA>
+    <wordB>requin</wordB>
+    <txt2> qui nage juste en dessous de ce canard ! Il devrait vite se mettre à l'abri ! </txt2>
+  </text>
+  <question>
+    <qn1>Qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> devrait se mettre à l'abri ?</qn2>
+  </question>
+  <twoanswers>
+	<answerA>
+	  <answer1>le têtard</answer1>
+	  <answer2>le canard</answer2>
+	</answerA> 
+	<answerB>
+	  <answer1>le requin</answer1>
+	  <answer2>le canard</answer2>
+	</answerB> 
+  </twoanswers>
+</schema>
+
+<schema id="57" engn="142">
+  <text>
+    <txt1> J'ai lâché une </txt1>
+    <wordA>aile de papillon</wordA>
+    <wordB>encyclopédie</wordB>
+    <txt2> sur la table et elle s'est cassée. </txt2>
+  </text>
+  <question>
+    <qn1>Qu'est-ce qui </qn1>
+    <qwordA></qwordA>
+    <qwordB></qwordB>
+    <qn2> s'est cassé ?</qn2>
+  </question>
+  <twoanswers>
+	<answerA>
+	  <answer1>l'aile de papillon</answer1>
+	  <answer2>la table</answer2>
+	</answerA> 
+	<answerB>
+	  <answer1>l'encyclopédie</answer1>
+	  <answer2>la table</answer2>
+	</answerB> 
+  </twoanswers>
+</schema>
+
+</collection>
