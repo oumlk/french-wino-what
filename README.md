@@ -39,6 +39,7 @@ This follows the experimental setup introduced in *WinoWhat* and applies it to a
   - `french_wino_unrandomized.csv`
   - `french_wino_randomized.csv`
   - `french_wino_with_paraphrases.csv`
+- `french_wino_data.ipynb`
 
 Paraphrases are generated using a large language model and manually verified to preserve meaning and ambiguity.
 
