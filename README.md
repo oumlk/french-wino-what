@@ -22,14 +22,19 @@ This follows the experimental setup introduced in *WinoWhat* and applies it to a
 
 ## Data
 
-- **Source dataset**: French Winograd Schemas  
-  (Amsili & Seminck, 2017)
+- **Source datasets**:
+  - French Winograd Schemas (Amsili & Seminck, 2017)
+  - WinoWhat validation subset (Gevers et al., 2023), translated into French using DeepL
+- **Dataset size**: 201 total instances  
+  - 100 from the original French Winograd Schemas  
+  - 101 translated from WinoWhat using Deepl API.
 - **Format**:
   - Each instance contains:
-    - a sentence with a blank (`_`)
+    - a sentence with a blank ('_')
     - two candidate options
     - a gold answer label (1 or 2)
   - A parallel column stores a paraphrased version of each sentence
+
 
 ### Data files
 
