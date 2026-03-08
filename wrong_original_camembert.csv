@@ -1,0 +1,103 @@
+id,sentence,option1,option2,answer,pred,score1,score2
+1,"La coupe n'entre pas dans la valise marron, car _ est trop grande.",la valise,la coupe,2,1,-186.85103225708008,-186.99455642700195
+2,"Paul a essayé de joindre Georges sur son téléphone, mais _ n'a pas réussi.",Paul,Georges,1,2,-187.16639137268066,-186.80308437347412
+3,"L'avocat a posé une question au témoin, mais _ a refusé de la répéter.",l'avocat,le témoin,1,2,-209.4482831954956,-198.0619993209839
+6,J'ai versé l'eau de la carafe dans la tasse jusqu'à ce que _ soit vide.,la tasse,la carafe,2,1,-261.2264471054077,-280.4279851913452
+9,"Si l'escroc avait réussi à tromper Samuel, _ aurait pu gagner beaucoup d'argent.",l'escroc,Samuel,1,2,-265.10881423950195,-222.84225273132324
+11,"Pendant la tempête, l'arbre est tombé et s'est écrasé sur le toit de ma maison. Maintenant je dois déplacer _.",le toit,l'arbre,2,1,-292.4952697753906,-303.2193841934204
+14,"Claire a frappé à la porte de Sylvie, mais personne n'a répondu. _ était déçue.",Sylvie,Claire,2,1,-209.00837421417236,-209.417405128479
+16,"Simon a pris des cours de français avec Adam, car _ voulait parler français couramment.",Adam,Simon,2,1,-176.72905731201172,-176.96600151062012
+17,"Le chemin pour aller au lac était bloqué, donc on n'a pas pu emprunter _.",le lac,le chemin,2,1,-207.19787788391113,-207.3077268600464
+18,"On est allé au lac, car un requin a été aperçu dans la mer, c'était plus sûr de nager _.",dans le lac,dans la mer,1,2,-280.355486869812,-280.0413599014282
+19,"Fred et Alice ont des manteaux très chauds, mais _ ne sont pas préparés pour l'hiver en Alaska.",les manteaux,Fred et Alice,2,1,-269.31401348114014,-269.41252517700195
+20,Dupont a visité la tombe de Dubois en 1765. A cette date _ était sur la route depuis cinq ans.,Dubois,Dupont,2,1,-240.21366024017334,-240.63249969482422
+23,"La nuit, les renards entrent dans la cour et attaquent les poules. Je devrais tuer _.",les poules,les renards,2,1,-230.07075309753418,-241.0499029159546
+24,Fred regardait la télé quand Georges est parti faire les courses. Une heure après _ s'est levé.,Georges,Fred,2,1,-217.95626735687256,-217.98768424987793
+27,"En juillet, le Kamchatka a déclaré la guerre à Yakoutsk. Comme l'armée de Yakoutsk était bien mieux équipée que celle du Kamchatka, _ ont gagné en quelques semaines.",le Kamchatka,Yakoutsk,2,1,-494.7468452453613,-494.8142967224121
+28,"Il y a trop de cerfs dans le parc, et les gardes forestiers ont introduit une petite meute de loups. La population _ devrait rapidement diminuer.",des cerfs,des loups,1,2,-340.94182682037354,-329.88944244384766
+30,La police a arrêté tous les membres d'un gang. _ essayaient de stopper un trafic de drogue dans le quartier.,le gang,la police,2,1,-270.47746086120605,-270.7092685699463
+31,J'ai mis le gâteau dans le frigo. Il y a beaucoup de sucre _.,dans le gâteau,dans le frigo,1,2,-208.64942932128906,-208.50651836395264
+33,"Les partisans du nouveau projet de loi sont arrivés à la mairie, ils ont été surpris que la salle soit pleine d'opposants. _ étaient en minorité.",les opposants,les partisans,2,1,-343.0968017578125,-343.253870010376
+34,"Tout le monde a aimé les biscuits à l'avoine; seules quelques personnes ont préféré ceux aux pépites de chocolat. La prochaine fois, il faudra faire plus _.",de biscuits à l'avoine,de biscuits au chocolat,1,2,-406.70580673217773,-385.33093643188477
+39,"Claire a frappé à la porte de Sylvie, mais _ n'a pas eu de réponse.",Claire,Sylvie,1,2,-199.09663009643555,-198.64293003082275
+44,Benoît a passé la gameboy à Jean. Car ce n'était pas le tour_.,de Benoît,de Jean,1,2,-207.57812023162842,-207.32201385498047
+51,"Les conseillers municipaux ont refusé une autorisation aux manifestants, car _ craignent la violence.",les conseillers municipaux,les manifestants,1,2,-188.92001152038574,-178.1426067352295
+52,"Alors qu'elles courent à la même vitesse, Sarah a battu Sabine car _ a réussi son départ.",Sarah,Sabine,1,2,-218.11944103240967,-217.89421939849854
+55,"François s'est fâché contre Thomas, car le grille-pain que _ lui a acheté ne marche pas.",François,Thomas,1,2,-231.7535219192505,-231.27769947052002
+58,Il y a du savon dans le siphon de douche. _ faut le retirer.,le siphon,le savon,2,1,-177.679461479187,-179.1041259765625
+59,"Le rendez-vous n'a commencé qu'à 16:00 et mon train était à 16:30 donc j'étais pressé. Heureusement, _ a été de courte durée.",mon train,le rendez-vous,2,1,-396.87668895721436,-417.01459407806396
+62,"Anne a demandé à Marie les horaires de fermeture de la bibliothèque, car _ les avait oubliés.",Marie,Anne,2,1,-209.33409214019775,-209.5321559906006
+64,Pierre jouait aux cartes avec Adam qui menait au score. Si la chance d'Adam n'avait pas tourné _ aurait perdu.,Adam,Pierre,2,1,-280.4253034591675,-280.5081958770752
+67,Le chien courait après un chat qui a alors grimpé dans un arbre. _ est resté en bas toute la nuit.,le chat,le chien,2,1,-280.9171371459961,-281.2105379104614
+71,Marie a pris son violon pour jouer un de ses morceaux favoris. Il possède _ depuis son enfance.,le violon,le morceau,1,2,-217.5715160369873,-216.3795509338379
+74,Les scientifiques étudient trois espèces de poissons trouvées récemment dans l'océan indien. _ ont commencé il y a deux ans.,les scientifiques,les poissons,1,2,-282.1748847961426,-281.63747787475586
+75,Denis a dû empêcher Benoît de maltraiter l'oiseau blessé. _ est vraiment compatissant.,Denis,Benoît,1,2,-220.23779964447021,-220.15747165679932
+76,"Prise en tenaille par la défense, Emma n'a pas pu envoyer la balle à Jeanine parce qu'elle avait vu que _ était démarquée.",Jeanine,Emma,1,2,-356.8597755432129,-347.0844564437866
+82,Les pompiers sont arrivés avant les policiers alors que _ venaient de plus loin.,Les pompiers,Les policiers,1,2,-165.53512382507324,-164.68788814544678
+84,"Le sac de pommes de terre est au-dessus du sac de farine, donc il faudra déplacer _ en premier.",le sac de farine,le sac de pommes de terre,2,1,-269.6065454483032,-291.2212371826172
+85,J'ai étalé la nappe sur la table pour montrer _.,la table,la nappe,2,1,-146.7502155303955,-148.01191329956055
+88,"Le frère jumeau de Joël arrive toujours à le battre au tennis, même si _ a suivi deux ans de cours en moins.",le frère de Joël,Joël,1,2,-292.7156238555908,-261.5218334197998
+91,"Je suis sûre que ce monument est dans mon guide, _ est incontournable.",le guide,le monument,2,1,-166.07133865356445,-166.47583675384521
+92,La chatte attendait la souris à côté du trou. _ était très impatiente.,la chatte,la souris,1,2,-179.7386417388916,-179.33839416503906
+93,"J'ai mis la clé dans la serrure, mais elle était bouchée avec du chewing-gum, je n'ai pas pu extirper _.",la clé,la serrure,1,2,-355.8972406387329,-355.8707447052002
+96,Les renards viennent la nuit dans la cour et attaquent les lapins. _ sont devenus téméraires.,les lapins,les renards,2,1,-251.92046642303467,-262.7533264160156
+97,Gabrielle est contente d'avoir échangé son pull contre mon gilet. Elle pense que _ est très démodé.,le pull,le gilet,1,2,-250.41245937347412,-250.32075881958008
+99,J'ai lâché une aile de papillon sur la table et _ s'est cassée.,la table,l'aile de papillon,2,1,-198.27328300476074,-229.33716773986816
+104,"Angela pense que son mari pourrait la tromper avec Lindsey, et _ avoue lors du dîner.",Angela,Lindsey,2,1,-209.51270866394043,-230.48273754119873
+107,"Mary voulait se faire un autre piercing à l’oreille, mais le _ était beaucoup trop petit.",l'oreille,le piercing,1,2,-231.58376026153564,-220.59701442718506
+109,L’adolescent a trouvé que le nouveau chapeau ne remplaçait pas sa chemise cool.  _ était juste cool à porter à l’école.,le chapeau,la chemise,2,1,-305.6344404220581,-306.8640384674072
+110,Mary aidait la fille de Patricia à se maquiller mais _ regarde beaucoup de tutoriels de maquillage.,Mary,Patricia,2,1,-228.19429969787598,-228.8926944732666
+114,"Amy pensait être le miroir de Natalie, mais _ ne pouvait pas être convaincue de voir la ressemblance.",Amy,Natalie,2,1,-226.73215675354004,-248.9828004837036
+116,La feuille récupérée peut facilement se cacher dans l’espace de la porte. _ est large.,la feuille,l'espace,2,1,-219.1095838546753,-229.70303344726562
+118,Steven pense qu’on peut acheter le bonheur mais Craig pense le contraire car _ est très matérialiste.,Steven,Craig,1,2,-208.6472043991089,-208.39393997192383
+121,Dennis sait que Jeffrey aime les animaux et _ sait qu’il veut aller au zoo pour les voir.,Dennis,Jeffrey,1,2,-249.468599319458,-249.08577823638916
+122,Le président a fait son discours à l’auditorium plutôt qu’au parc parce que _ était plus grand.,auditorium,parc,1,2,-272.98570251464844,-251.2888126373291
+124,Rebecca pensait que les films Disney étaient les meilleurs à regarder mais Samantha préférait les films d’horreur. _ a loué Saw chez Redbox.,Rebecca,Samantha,2,1,-324.6012992858887,-344.512412071228
+125,Laura a apporté des extensions à Monica au salon pour que _ puisse traiter ses dreadlocks de manière professionnelle.,Laura,Monica,2,1,-239.50380611419678,-239.5581817626953
+127,"L’administration fiscale a envoyé une lettre à Tim l’informant de l’audit, qui pouvait avoir lieu à la maison ou au bureau. Tim a choisi le cadre confortable de _ .",bureau,maison,2,1,-428.2173433303833,-429.1318655014038
+128,Mon arme a été inspectée avec un chiffon pour s’assurer qu’elle fonctionnait bien. _ était doux.,le chiffon,arme,1,2,-248.3978395462036,-238.9615077972412
+129,"La température en hiver est très différente de celle de l’été, _ est toujours plus basse.",été,l'hiver,2,1,-207.22071266174316,-228.89530086517334
+131,"À la plage, Emily a ramassé des coquillages pour sa mère Maria. _ a poli les coquillages avant de les offrir.",Emily,Maria,1,2,-271.09180068969727,-270.7401704788208
+133,"Robert prenait des cours de chant avec Randy, parce que _ était connu pour être dans American Idol.",Robert,Randy,2,1,-227.00780773162842,-237.65936660766602
+134,À la plage Cynthia aimait porter un bikini mais Laura non parce que _ avait un ventre plat.,Cynthia,Laura,1,2,-260.10598850250244,-229.05263710021973
+135,"Au lycée Matthew était le plus populaire auprès des professeurs tout comme Steven l’était auprès des élèves, _ était apprécié par les adolescents.",Matthew,Steven,2,1,-282.0681953430176,-282.1761407852173
+137,Lawrence aimait regarder des films étrangers avec des sous-titres contrairement à Jason parce que _ appréciait la langue originale du film.,Lawrence,Jason,1,2,-270.4485845565796,-270.22958755493164
+139,"Samantha suivait strictement son régime tandis que Sarah mangeait ce qu’elle voulait, et _ a mangé du poulet et du brocoli toute la semaine.",Samantha,Sarah,1,2,-367.1062698364258,-346.7424192428589
+140,Il semblait plus probable que Brett porte un fedora plutôt que Justin parce que _ était connu pour s’habiller avec style.,Brett,Justin,1,2,-279.33959007263184,-269.50385665893555
+142,Mon visage était plus familier au bar qu’à la salle de sport parce que j’allais très rarement  _.,au bar,á la salle du sport,2,1,-250.69583797454834,-292.7953882217407
+143,Emily a dit que le hijab de Victoria était ridicule et démodé. _ a entendu des choses très offensantes.,Emily,Victoria,2,1,-272.9698152542114,-273.5573091506958
+145,Ian devait ajuster le rétroviseur et Craig non parce que _ était plus petit que le propriétaire de la voiture.,Ian,Craig,1,2,-220.0358543395996,-220.0223627090454
+146,On m’a dit que ma vue baissait donc je dois prendre des lunettes ou des lentilles. Je pense que je ne prendrai pas les lentilles puisque _ semblent moins confortables.,les lunettes,les lentilees,2,1,-375.8683090209961,-409.0963373184204
+148,Je me demande toujours pourquoi les gens préfèrent lire dans une bibliothèque plutôt qu’à la maison parce que le nombre de personnes au _ rendrait la concentration difficile.,la bibliothèque,la maison,1,2,-348.6341543197632,-347.84127044677734
+150,Bobby a dû utiliser son stylo pour terminer l’examen plutôt que le crayon parce que _ était plein d’encre.,stylo,crayon,1,2,-263.22572326660156,-262.9841995239258
+151,Erin a montré à Maria comment utiliser correctement la fourchette et le couteau puisque _ avait fréquenté une école d’étiquette.,Erin,Maria,1,2,-262.4499845504761,-252.1656665802002
+152,Rebecca a demandé à Kayla d’éteindre les lumières mais _ ne voulait pas aller dormir.,Rebecca,Kayla,2,1,-199.42171096801758,-209.45973205566406
+154,Jason considère Benjamin et lui comme amis même si _ fait peu d’efforts dans leur relation.,Jason,Benjamin,2,1,-197.47760009765625,-198.5665521621704
+156,Matt voulait changer soit la salle de bain simple soit la chambre colorée mais _ était déjà simple.,la chambre,la salle de bain,2,1,-208.5115966796875,-228.84033012390137
+157,La neige est tombée tellement fort que Michael a dû déneiger l’allée de Kevin parce que _ avait accepté de s’occuper de ses voisins.,Michael,Kevin,1,2,-324.0966377258301,-324.0548315048218
+158,La fille a utilisé le peigne pour essayer de se brosser les cheveux mais _ était trop souple.,cheveux,peigne,2,1,-208.87461948394775,-209.48518466949463
+159,Sarah lève les yeux au ciel pendant que Monica vante les vertus du vinaigre comme solution de nettoyage universelle puisque _ s’ennuie.,Sarah,Monica,1,2,-260.9627933502197,-260.80502700805664
+163,Il trouvait plus difficile d’écrire la lettre que le courriel parce que _ avait si peu de mots.,lettre,e-mail,2,1,-218.97668933868408,-240.68831825256348
+164,Carrie adore mettre du sucre dans le café contrairement à Laura parce que _ pense que le café a meilleur goût.,Carrie,Laura,1,2,-253.25541019439697,-242.6819553375244
+167,John a peint le poteau en rouge proche de la couleur du mur et a peint le cadre en blanc et maintenant _ est similaire.,cadre,champ,2,1,-271.7908458709717,-272.29493618011475
+168,"Les cheveux de Ian sont en train d’être coiffés par Craig, donc il est plus probable que _ soit le client.",Ian,Craig,1,2,-272.2067127227783,-272.07790660858154
+170,Neil était un élève très populaire à l’école contrairement à Jeffrey parce que _ était très extraverti.,Neil,Jeffrey,1,2,-254.63232231140137,-253.56800842285156
+171,Le match à la télévision était très important pour Ian mais pas pour Dennis parce que _ s’intéressait plutôt à la musique.,Ian,Dennis,2,1,-271.04663944244385,-281.89710807800293
+173,"Lors du bal de rentrée du lycée, Natalie est restée sur la piste pour la danse lente tandis que Maria allait chercher à manger parce que _ avait actuellement un partenaire.",Natalie,Maria,1,2,-398.0781030654907,-376.7029972076416
+176,"S’abstenir de boire était facile pour Kyle mais pas pour Eric, puisque _ n’a jamais apprécié le goût de l’alcool.",Kyle,Eric,1,2,-314.83154010772705,-304.66806411743164
+178,John a décidé de cultiver une nouvelle variété de plante dans son jardin mais _ est grand.,jardin,plante,2,1,-186.51493072509766,-186.7471284866333
+180,Mary dit à tout le monde que Christine est trop collante parce que _ aime être touchée.,Mary,Christine,2,1,-198.27296924591064,-198.2813835144043
+181,James est tombé dans un fossé en essayant d’attraper le ballon lancé vers lui. _ est plus loin.,le fossé,la balle,2,1,-238.66670513153076,-239.437970161438
+182,"Christopher a essayé de vider toute l’eau du réservoir dans le jardin parce que Michael le lui avait demandé, mais _ n’a pas réussi à tout vider.",Christopher,Michael,1,2,-349.09671115875244,-348.36131286621094
+184,"Chez Jan, elle dépoussiérait la commode plus souvent que le ventilateur parce que _ était plus facile à atteindre.",le ventilateur,la commode,2,1,-262.70367527008057,-262.7125082015991
+186,"Michael a préparé des œufs marinés pour Kenneth, mais _ aimait vraiment les siens et voulait les partager.",Michael,Kenneth,2,1,-238.95650482177734,-258.6071891784668
+187,Le chien a couru dans la chambre pendant l’orage tandis que nous sommes restés dans la cuisine parce que la pluie était plus douce dans _ .,cuisine,chambre,2,1,-313.86085510253906,-313.9422254562378
+188,"Robert n’était tout simplement pas aussi stoïque que Joel, puisque _ avait tendance à gérer les choses avec grâce.",Robert,Joel,2,1,-273.17416763305664,-284.4402828216553
+189,"Mon employeur offre une prime sous forme de téléphone ou de télévision, mais malheureusement _ est beaucoup trop grand pour être utile.",le téléphone,la télévision,1,2,-258.26862621307373,-257.6473627090454
+191,"Au bal, Adam a invité la fille à danser avant Donald, donc _ est en colère contre lui-même.",Adam,Donald,2,1,-248.63124465942383,-248.8156442642212
+192,Les livres de fiction étaient intéressants et faciles à lire pour Logan mais pas pour Brett parce que _ préférait des histoires vraies.,Logan,Brett,2,1,-258.71386528015137,-268.9487409591675
+194,"Je ne savais pas quel serait mon costume pour Halloween, Peter Pan ou Blanche-Neige. Si je choisis le costume de _  je devrais porter une robe.",Peter Pan,Blanche-Neige,2,1,-346.0221710205078,-368.48296642303467
+197,"Christopher se préparait à laver les cheveux de Joel, donc _ a sorti du shampoing près de l’évier et s’est assis sur la chaise.",Christopher,Joel,2,1,-327.0684118270874,-337.5972318649292
+199,"Erin connaissait le cadeau parfait pour la fête prénuptiale, mais Samantha devait faire des recherches, car _ connaissait moins bien la mariée.",Erin,Samantha,2,1,-330.17194747924805,-340.50762844085693
+200,Elle voulait acheter plus de vêtements et a finalement choisi la robe en velours plutôt que la veste en jean parce que _ était plus adapté au quotidien.,robe,veste,2,1,-303.1131868362427,-303.442419052124
+201,"Laura n’a absolument rien acheté pour l’anniversaire de Betty, parce que _ a oublié d’en parler.",Laura,Betty,2,1,-262.1132879257202,-272.48347663879395
