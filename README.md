@@ -1,5 +1,5 @@
 
-# French WinoWhat
+# French WinoWhat:
 
 This repository contains the **data, code, and experimental results** for my thesis project that **replicates and extends the WinoWhat framework** for evaluating commonsense reasoning under paraphrasing in **French**.
 
