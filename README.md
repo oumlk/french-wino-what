@@ -26,7 +26,7 @@ The model must select the correct antecedent based on commonsense reasoning.
 ### Method
 
 1. Insert each candidate option into the sentence
-2. Compute the log-likelihood of each completed sentence
+2. Compute the log-likelihood of each completed sentence using the appropriate scoring method for each model type
 3. Select the option with the higher score
 4. Compute model accuracy over the full dataset
 
@@ -53,32 +53,55 @@ option2
 answer
 ```
 
-Paraphrases were generated using a large language model and manually verified to preserve meaning, grammaticality, and ambiguity. Each paraphrase places the blank token at the end of the sentence, following the WinoWhat design.
+Paraphrases were generated using a large language model and manually verified to preserve meaning, grammaticality, and ambiguity. Each paraphrase places the blank token at the end of the sentence, following the WinoWhat design. Option ordering was randomized with a fixed seed to avoid positional bias.
 
 ---
 
-## Models
+## Models and Evaluation Protocol
 
-| Model | Type | Evaluation Method |
-|---|---|---|
-| Mistral-7B-v0.1 (Jiang et al., 2023) | Causal LM | Partial evaluation (log-likelihood) |
-| CamemBERT-base (Martin et al., 2020) | Masked LM | Pseudo-log-likelihood (PLL) |
+| Model | Type | Scoring Method | Notes |
+|---|---|---|---|
+| Mistral-7B-v0.1 (Jiang et al., 2023) | Causal LM | Partial evaluation (log-likelihood) | Follows Gevers et al. (2025) run_llm.py |
+| CamemBERT-base (Martin et al., 2020) | Masked LM | Pseudo-log-likelihood (PLL) | Standard protocol for encoder-only models |
+
+### Causal LM scoring (Mistral-7B)
+
+Scoring follows the partial evaluation implementation of Gevers et al. (2025). For each instance and each option, the text before the blank is treated as context. The summed log-likelihood of the option tokens is computed using `tokenizer.encode` with `add_special_tokens=False`, and log-probabilities are extracted with `torch.gather` on the shifted logits. The `evaluate_on_full_continuation` flag is set to `False`, matching the WinoWhat setting.
+
+### Masked LM scoring (CamemBERT)
+
+Each completed sentence is scored by masking one token at a time and summing log P(token | rest of sentence) across all non-special tokens. This is the standard pseudo-log-likelihood protocol for encoder-only models.
+
+### Statistical reporting
+
+Confidence intervals are computed using the Wilson score interval. Significance of the original vs. paraphrased performance difference is assessed with McNemar's exact test. Effect size is reported as |b - c| / (b + c) (Cohen's g). Between-model comparisons use the same test applied to predictions on the same instances, following the approach of Gevers et al. (2025).
 
 ---
 
 ## Results
 
-| Model | Original | Paraphrased | Drop |
+| Model | Original | 95% CI | Paraphrased | 95% CI | Drop |
+|---|---|---|---|---|---|
+| Mistral-7B | 0.480 | [0.412, 0.549] | 0.510 | [0.441, 0.578] | -0.030 |
+| CamemBERT-base | 0.490 | [0.422, 0.559] | 0.485 | [0.417, 0.554] | +0.005 |
+
+Random baseline: 0.500 | Always-option1 baseline: 0.460
+
+**McNemar's exact test: original vs. paraphrased**
+
+| Model | b | c | p-value | Effect size | Significant |
+|---|---|---|---|---|---|
+| Mistral-7B | 9 | 15 | 0.3075 | 0.250 | No |
+| CamemBERT-base | 16 | 15 | 1.0000 | 0.032 | No |
+
+**McNemar's exact test: between-model comparisons**
+
+| Condition | p-value | Effect size | Significant |
 |---|---|---|---|
-| Mistral-7B | 0.739 | 0.633 | -0.106 |
-| CamemBERT | 0.487 | 0.482 | -0.005 |
+| Mistral vs. CamemBERT (original) | 0.9234 | 0.019 | No |
+| Mistral vs. CamemBERT (paraphrased) | 0.6849 | 0.052 | No |
 
-**McNemar's exact test (original vs. paraphrased):**
-
-| Model | p-value | Significant |
-|---|---|---|
-| Mistral-7B | 0.0128 | Yes |
-| CamemBERT | 1.0000 | No |
+Both models perform at approximately chance level (0.50) on both the original and paraphrased sentences. No significant performance drop under paraphrasing is observed for either model, and no significant difference between models is found. These results diverge from the English findings of Gevers et al. (2025) and are discussed in the thesis.
 
 ---
 
