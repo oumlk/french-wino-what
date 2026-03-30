@@ -144,7 +144,7 @@ pip install transformers torch pandas numpy tqdm scikit-learn statsmodels
 ### Steps
 
 1. Run `french_wino_data.ipynb` to parse the XML dataset, apply option randomization, and construct the final dataset with paraphrases.
-2. Run `french_winowhat_replication_experiment.ipynb` to evaluate both models and generate all result files and figures. The notebook is designed to run on Google Colab with an A100 GPU.
+2. Run `french_winowhat_FINAL.ipynb` to evaluate both models and generate all result files and figures. The notebook is designed to run on Google Colab with an A100 GPU.
 
 ---
 
