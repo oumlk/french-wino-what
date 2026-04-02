@@ -1,4 +1,4 @@
-# WinoQuoi? Replicating the WinoWhat Framework for Commonsense Reasoning Evaluation in French
+# WinoQuoi? A Replication of WinoWhat for Evaluating Commonsense Reasoning in French
 
 This repository contains the data, code, and experimental results for my Master's thesis at the University of Antwerp (Academic Year 2025-2026), which replicates and extends the WinoWhat framework (Gevers et al., 2025) for evaluating commonsense reasoning under paraphrasing in French.
 
