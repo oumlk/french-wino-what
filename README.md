@@ -1,6 +1,6 @@
 # WinoQuoi? A Replication of WinoWhat for Evaluating Commonsense Reasoning in French
 
-This repository contains the data, code, and experimental results for my Master's thesis at the University of Antwerp (Academic Year 2025-2026), which replicates and extends the WinoWhat framework (Gevers et al., 2025) for evaluating commonsense reasoning under paraphrasing in French.
+This repository contains the data, code, and experimental results for my Master's thesis at the University of Antwerp (Academic Year 2025-2026) which replicates and extends the WinoWhat framework (Gevers et al., 2025) for evaluating commonsense reasoning under paraphrasing in French.
 
 The project investigates whether language models rely on true commonsense reasoning or surface linguistic cues by comparing model performance on original Winograd-style sentences and meaning-preserving paraphrases in French.
 
@@ -53,7 +53,7 @@ option2
 answer
 ```
 
-Paraphrases were generated using a large language model and manually verified to preserve meaning, grammaticality, and ambiguity. Each paraphrase places the blank token at the end of the sentence, following the WinoWhat design. Option ordering was randomized with a fixed seed to avoid positional bias.
+Paraphrases were generated using a large language model and manually verified to preserve meaning, grammaticality and ambiguity. Each paraphrase places the blank token at the end of the sentence, following the WinoWhat design. Option ordering was randomized with a fixed seed to avoid positional bias.
 
 ---
 
