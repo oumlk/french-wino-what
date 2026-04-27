@@ -128,10 +128,11 @@ All models perform near chance level. No significant paraphrasing drop is observ
 ```
 .
 ├── data/
-│   ├── French_Wino_Schemas.xml          # Original XML dataset (Amsili and Seminck, 2017)
-│   ├── french_wino_unrandomized.csv     # Structured dataset extracted from XML
-│   ├── french_wino_randomized.csv       # Dataset with randomized option ordering
-│   └── french_wino_with_paraphrases.csv # Final dataset used in experiments
+│   ├── French_Wino_Schemas.xml                # Original XML dataset (Amsili and Seminck, 2017)
+│   ├── french_wino_unrandomized.csv           # Structured dataset extracted from XML
+│   ├── french_wino_randomized.csv             # Dataset with randomized option ordering (seed=42)
+│   ├── french_wino_with_paraphrases.csv       # Final dataset with added paraphrases used in experiments
+│   └── french_wino_final_with_source.csv      # Final dataset with source labels (amsili_seminck / winowhat) 
 │
 ├── notebooks/
 │   ├── corpus_construction.ipynb                       # Full corpus construction pipeline: XML parsing, format conversion, option randomization
