@@ -40,8 +40,8 @@ The dataset combines two sources for a total of **200 instances**.
 
 | Source | Instances | Description |
 |---|---|---|
-| Amsili and Seminck (2017) | 100 | French Winograd schemas, parsed from original XML |
-| Gevers et al. (2025), translated | 100 | WinoWhat validation subset, translated into French via DeepL |
+| Amsili and Seminck (2017) | 96 | French Winograd schemas, parsed from original XML |
+| Gevers et al. (2025), translated | 104 | WinoWhat validation subset, translated into French via DeepL |
 
 Each instance contains:
 ```
@@ -53,7 +53,25 @@ option2
 answer
 ```
 
-Paraphrases were generated using a large language model and manually verified to preserve meaning, grammaticality and ambiguity. Each paraphrase places the blank token at the end of the sentence, following the WinoWhat design. Option ordering was randomized with a fixed seed to avoid positional bias.
+**Amsili and Seminck (2017) instances:** The original XML resource 
+provides 107 schemas. For each schema, a single instance was constructed 
+using the first trigger word (wordA), reformatted to match the WinoWhat 
+blank-at-end surface structure. 11 instances were removed during 
+construction due to conversion errors or missing fields, yielding 96 
+usable instances from this source.
+
+**WinoWhat instances:** 104 instances were randomly sampled from the 
+WinoWhat validation subset of Gevers et al. (2025), translated into 
+French using the DeepL API, and manually verified by a native speaker 
+of French to ensure meaning, ambiguity, and candidate balance were 
+preserved.
+
+Paraphrases were generated using a large language model and manually 
+verified to preserve meaning, grammaticality and ambiguity. Each 
+paraphrase places the blank token at the end of the sentence, following 
+the WinoWhat design. Option ordering was randomized with a fixed seed 
+(42) to avoid positional bias. A source column is included in the final 
+dataset to distinguish between the two origins.
 
 ---
 
@@ -116,7 +134,7 @@ All models perform near chance level. No significant paraphrasing drop is observ
 │   └── french_wino_with_paraphrases.csv # Final dataset used in experiments
 │
 ├── notebooks/
-│   ├── french_wino_data.ipynb                          # Data processing pipeline
+│   ├── corpus_construction.ipynb                       # Full corpus construction pipeline: XML parsing, format conversion, option randomization
 │   └── french_winowhat_replication_experiment.ipynb    # Main experiment notebook
 │
 ├── results/
