@@ -1,8 +1,8 @@
 # WinoQuoi: A Replication of WinoWhat for Evaluating Common sense Reasoning in French
 
-This repository contains the data, code and experimental results for my Master's thesis at the University of Antwerp (Academic Year 2025-2026), which replicates and extends the WinoWhat framework (Gevers et al., 2025) for evaluating commonsense reasoning under paraphrasing in French.
+This repository contains the data, code and experimental results for my Master's thesis at the University of Antwerp (Academic Year 2025-2026), which replicates and extends the WinoWhat framework (Gevers et al., 2025) for evaluating common sense reasoning under paraphrasing in French.
 
-The project investigates whether language models rely on commonsense reasoning or surface linguistic cues by comparing model performance on original Winograd-style sentences and meaning-preserving paraphrases in French.
+The project investigates whether language models rely on common sense reasoning or surface linguistic cues by comparing model performance on original Winograd-style sentences and meaning-preserving paraphrases in French.
 
 ---
 
@@ -10,7 +10,7 @@ The project investigates whether language models rely on commonsense reasoning o
 
 ### Task
 
-Winograd-style commonsense reasoning (fill-in-the-blank).
+Winograd-style common sense reasoning (fill-in-the-blank).
 
 **Example:**
 ```
@@ -21,7 +21,7 @@ La coupe n'entre pas dans la valise marron, car la _ est trop grande.
 1. valise
 2. coupe
 
-The model must select the correct antecedent based on commonsense reasoning.
+The model must select the correct antecedent based on common sense reasoning.
 
 ### Method
 
@@ -203,7 +203,7 @@ Sakaguchi, K., Le Bras, R., Bhagavatula, C. and Choi, Y. (2021). WinoGrande: An 
 
 Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., Bashlykov, N., Batra, S., Bhargava, P. and Bhosale, S. (2023). Llama 2: Open foundation and fine-tuned chat models. *arXiv preprint arXiv:2307.09288*.
 
-Trinh, T. H. and Le, Q. V. (2018). A simple method for commonsense reasoning. *arXiv preprint arXiv:1806.02847*.
+Trinh, T. H. and Le, Q. V. (2018). A simple method for common sense reasoning. *arXiv preprint arXiv:1806.02847*.
 
 ---
 
