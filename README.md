@@ -220,4 +220,3 @@ Co-promotor: Ine Gevers
 ---
 
 *This repository is intended for academic and research purposes.*
-## Author
