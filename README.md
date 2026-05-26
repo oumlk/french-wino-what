@@ -1,4 +1,4 @@
-# WinoQuoi: A Replication of WinoWhat for Evaluating Common sense Reasoning in French
+# WinoQuoi: A Replication of WinoWhat for Evaluating Common Sense Reasoning in French
 
 This repository contains the data, code and experimental results for my Master's thesis at the University of Antwerp (Academic Year 2025-2026), which replicates and extends the WinoWhat framework (Gevers et al., 2025) for evaluating common sense reasoning under paraphrasing in French.
 
@@ -150,7 +150,7 @@ Three sanity checks were run on 50 English WinoWhat instances (random seed 42):
 │   ├── french_wino_randomized.csv             # Dataset with randomized option ordering
 │   ├── french_wino_final_with_source.csv      # Final dataset with source labels
 │   ├── french_wino_with_paraphrases.csv       # Final dataset with paraphrases used in experiments
-│   └── WinoWhat.csv                           # Original WinoWhat data from Gevers et al. 
+│   └── WinoWhat.csv                           # WinoWhat validation subset from Gevers et al. (2025) 
 │
 ├── notebooks/
 │   ├── corpus_construction.ipynb              # Corpus construction pipeline
@@ -206,6 +206,8 @@ Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., Bashl
 Trinh, T. H. and Le, Q. V. (2018). A simple method for common sense reasoning. *arXiv preprint arXiv:1806.02847*.
 
 ---
+
+AI tools were used during this project in the following ways: GPT-4 assisted with paraphrase generation (see Appendix A of the thesis); Gemini and ChatGPT were used for proofreading, language editing and checking logical consistency of arguments. All research ideas, methodological decisions, data collection, experimental design, analysis and conclusions are the author's own. AI use was disclosed in accordance with UAntwerp guidelines for AI use in research.
 
 ## Author
 
